@@ -64,4 +64,5 @@ An intelligent, AI-powered interview preparation platform that provides real-tim
 - **Deployment**: Streamlit Cloud
 
 
-## 📊 Architecture
+
+
