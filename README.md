@@ -7,9 +7,8 @@
 An intelligent, AI-powered interview preparation platform that provides real-time feedback, personalized coaching, and comprehensive analytics using Large Language Models.
 
 ## 🌟 Live Demo
-**[Try it Live Here](https://your-app-link.streamlit.app)** *(Update after deployment)*
+**[Try it Live Here](https://your-app-link.streamlit.app)
 
-## 📸 Screenshots
 
 ### AI Mock Interview
 ![Mock Interview](https://via.placeholder.com/800x400/5B21B6/ffffff?text=AI+Mock+Interview)
@@ -63,5 +62,6 @@ An intelligent, AI-powered interview preparation platform that provides real-tim
 - **Language**: Python 3.9+
 - **API**: Groq API (Free tier)
 - **Deployment**: Streamlit Cloud
+
 
 ## 📊 Architecture
